@@ -12,3 +12,10 @@ This is website that looks just like spotify. I built it using only HTML and CSS
 <b> Font Awesome </b>: Icons for navigation and controls. <br>
 <b> Google Fonts </b>: Typography enhancements. <br>
 
+📁Files
+<b> Project(spotify).html</b>-Main HTML File.<br>
+<b> style(spotify).css</b>-Stylesheet for the project. <br>
+<b> assets-spotify </b>- Contains images and icons. <br>
+<b> README.md </b>-Documentation file. <br>
+<b> spotify.png </b>-Image of the clone. <br>
+
